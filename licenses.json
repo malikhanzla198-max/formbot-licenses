@@ -1,0 +1,20 @@
+{
+  "licenses": [
+    {
+      "key": "ADMIN-0000-0000-0000",
+      "email": "admin@formbot.com",
+      "client_name": "Admin",
+      "enabled": true,
+      "created": "2026-04-23 07:35:40.979936",
+      "expiry": "never"
+    },
+    {
+      "key": "FBOT-7534-A5B2-7FB3",
+      "email": "sfdr@gmail.com",
+      "client_name": "sfdr",
+      "enabled": true,
+      "created": "2026-04-23 07:36:23.541563",
+      "expiry": "never"
+    }
+  ]
+}
